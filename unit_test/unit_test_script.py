@@ -10,7 +10,7 @@ from hello_world import sum
 
 print "############# Unit Test Script"
 
-print "############# Test case 1
+print "############# Test case 1"
 total = sum(3, 4)
 print "Total:", total
 
